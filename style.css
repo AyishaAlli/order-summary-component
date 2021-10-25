@@ -17,6 +17,7 @@
 }
 figure{
     margin-top: 130px;
+   
 }
 figcaption{
     text-align: center;
@@ -54,6 +55,8 @@ button{
 
 .cancelOrderLink{
     font-size: 10px;
+    text-decoration: none;
+    color: black;
 
 }
 .attribution { 
