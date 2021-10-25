@@ -15,11 +15,15 @@
     border-radius: 20px;
     box-shadow: 0px 5px 20px #9e9d9d;
 }
-figure{
-    margin-top: 130px;
+figure img{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    margin-left: -2px;
+    margin-top: -2px;
    
 }
 figcaption{
+    margin-top: 20px;
     text-align: center;
 
 }
@@ -29,7 +33,8 @@ figcaption{
     padding-bottom: 20px;
 }
 .paragraph{
-    font-size: 11px;
+    font-size: 10px;
+    color: grey;
 }
 .annualPlanOption{
     display: flex;
@@ -45,7 +50,7 @@ figcaption{
 button{
     background-color: hsl(245, 75%, 52%);
     padding: 10px 60px 10px 60px;
-    margin-top: 50px;
+    margin-top: 30px;
     margin-bottom: 30px;
     border: 1px solid transparent;
     border-radius: 10px;
