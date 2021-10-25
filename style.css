@@ -1,0 +1,75 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    background-image: image('<svg xmlns="http://www.w3.org/2000/svg" width="375" height="194"><path fill="#D6E1FF" fill-rule="evenodd" d="M-131.808 155.366c97.026 51.512 204.233 51.512 321.62 0 117.388-51.512 223.27-51.512 317.648 0V0h-639.268v155.366z"/></svg>');
+}
+
+.container {
+    margin: auto;
+    max-width: 300px;
+    height: 470px;
+    margin-top: 100px;
+    border: 2px solid transparent;
+    border-radius: 20px;
+    box-shadow: 0px 5px 20px #9e9d9d;
+}
+figure{
+    margin-top: 130px;
+}
+figcaption{
+    text-align: center;
+
+}
+
+.title{
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+.paragraph{
+    font-size: 11px;
+}
+.annualPlanOption{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.musicImageWithText{
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+    font-size: 12px;
+}
+button{
+    background-color: hsl(245, 75%, 52%);
+    padding: 10px 60px 10px 60px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    border: 1px solid transparent;
+    border-radius: 10px;
+    color: white;
+    box-shadow: 0px 5px 20px #9e9d9d;
+}
+
+.cancelOrderLink{
+    font-size: 10px;
+
+}
+.attribution { 
+    font-size: 11px; text-align: center; 
+}
+.attribution a {
+     color: hsl(228, 45%, 44%); 
+}
+
+
+
+
+
+
+
+
+
+
+
