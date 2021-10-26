@@ -15,6 +15,7 @@
     border-radius: 20px;
     box-shadow: 0px 5px 20px #9e9d9d;
 }
+
 figure img{
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
@@ -22,6 +23,7 @@ figure img{
     margin-top: -2px;
    
 }
+
 figcaption{
     margin-top: 20px;
     text-align: center;
@@ -32,25 +34,30 @@ figcaption{
     font-size: 20px;
     padding-bottom: 20px;
 }
+
 .paragraph{
     font-size: 10px;
     color: grey;
 }
+
 .annualPlanOption{
     display: flex;
     justify-content: space-around;
     align-items: center;
 }
+
 .musicImageWithText{
     display: flex;
     align-items: center;
     margin-top: 30px;
     font-size: 12px;
 }
+
 .changeLink{
     font-size: 10px; 
     margin-top: 20px;
 }
+
 .changeLink:hover{
     color:hsl(249, 71%, 56%);
 }
@@ -76,9 +83,11 @@ button:hover{
     color: black;
 
 }
+
 .attribution { 
     font-size: 11px; text-align: center; 
 }
+
 .attribution a {
      color: hsl(228, 45%, 44%); 
 }
