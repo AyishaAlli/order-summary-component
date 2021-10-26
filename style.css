@@ -47,6 +47,14 @@ figcaption{
     margin-top: 30px;
     font-size: 12px;
 }
+.changeLink{
+    font-size: 10px; 
+    margin-top: 20px;
+}
+.changeLink:hover{
+    color:hsl(249, 71%, 56%);
+}
+
 button{
     background-color: hsl(245, 75%, 52%);
     padding: 10px 60px 10px 60px;
@@ -56,6 +64,10 @@ button{
     border-radius: 10px;
     color: white;
     box-shadow: 0px 5px 20px #9e9d9d;
+}
+
+button:hover{
+    background-color:hsl(249, 71%, 56%);
 }
 
 .cancelOrderLink{
