@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-order-summary-card-using-flexbox-FGrUTRhD5)
-- Live Site URL: [Add live site URL here](https://ordersummary-1009.netlify.app/)
+- Solution URL: [https://www.frontendmentor.io/solutions](https://www.frontendmentor.io/solutions/responsive-order-summary-card-using-flexbox-FGrUTRhD5)
+- Live Site URL: [https://ordersummary-1009.netlify.app/](https://ordersummary-1009.netlify.app/)
 
 ## My process
 
